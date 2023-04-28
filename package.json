@@ -45,7 +45,7 @@
   "author": "Jean-Baptiste Demonte <jbdemonte@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "@elastic/elasticsearch": "^7.0.0",
+    "@elastic/elasticsearch": "^8.5.0",
     "mongoose": "^4.9.0 || ^5.0.0"
   },
   "devDependencies": {
